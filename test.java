@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
+
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer{
 	private static final Logger log = LoggerFactory.getLogger(Application.class);
